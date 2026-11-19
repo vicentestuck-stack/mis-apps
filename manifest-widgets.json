@@ -1,0 +1,21 @@
+{
+ "name": "Widgets · Hábitos y Foco",
+ "short_name": "Widgets",
+ "start_url": "widgets.html",
+ "display": "standalone",
+ "background_color": "#f5f0e8",
+ "theme_color": "#9b3a1b",
+ "icons": [
+  {
+   "src": "icons/widgets-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/widgets-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "scope": "./"
+}
